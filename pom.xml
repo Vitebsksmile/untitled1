@@ -13,8 +13,9 @@
       <url>scp://webhost.company.com/www/website</url>
     </site>
   </distributionManagement>
-//Изменения
+//Изменения V2
   <properties>
+    //  V2
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 </project>
